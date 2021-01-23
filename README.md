@@ -4,6 +4,6 @@ The Myers–Briggs Type Indicator (MBTI) is an introspective self-report questio
 
 This project has wide range of business applications. If we know how certain people interact with their environment we can make proper recommendations to them. The recommendations can range from book, or movie recommendations to the next travel destination. For example, introverted people may want to be engaged in more relaxed activities in comparison to extroverts who like large parties and adventures.
 
-The following book reccomendation website is created to showcase this project:https://myers-briggs-book-recomendatio.herokuapp.com/
+The following book reccomendation website is created to showcase this project: https://myers-briggs-book-recomendatio.herokuapp.com/
 
 
